@@ -1,0 +1,12 @@
+{
+  "masterVersionFile": "https://raw.githubusercontent.com/",
+
+  "modName": "Custom Autosave",
+  "modVersion":
+    {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    },
+  "modThreadId": "",
+}

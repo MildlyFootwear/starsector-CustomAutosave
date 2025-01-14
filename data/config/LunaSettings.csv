@@ -1,0 +1,53 @@
+fieldID,fieldName,fieldType,defaultValue,secondaryValue,fieldDescription,minValue,maxValue,tab
+MinutesBetweenSaves,Autosave Timer,Int,30,,How many minutes to wait since the last save before automatically saving without a notable event.,1,60,General
+SaveAsCopy,Save as Copy,Boolean,TRUE,,Save to a new slot instead of overwriting the last save.,,,General
+,,,,,,,,
+MinimumMinutesBetweenTriggers,Trigger Timer,Int,5,,How many minutes must pass since the last save before the triggers are allowed to save.,0,60,Timed Triggers
+HyperspaceToNormal,Leaving Hyperspace,Boolean,FALSE,,Save when leaving hyperspace.,,,Timed Triggers
+NormalToHyperspace,Entering Hyperspace,Boolean,FALSE,,Save when entering hyperspace.,,,Timed Triggers
+UsingGate,Using Gate,Boolean,FALSE,,Save when using a gate.,,,Timed Triggers
+,,,,,,,,Timed Triggers
+,,,,,,,,
+EveryMonth,Every Month,Boolean,FALSE,,Save on the second of every month.,,,Always Triggers
+AfterCombat,After Combat,Boolean,FALSE,,Save after fights.,,,Always Triggers
+AfterCargo,After Cargo,Boolean,FALSE,,Save after looting.,,,Always Triggers
+AfterMarket,After Closing Market,Boolean,FALSE,,Save after closing market/colony screen.,,,Always Triggers
+MarketTransaction,Market Transaction,Boolean,FALSE,,Save after trading or storing items.,,,Always Triggers
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Debugging,Debug,Boolean,FALSE,,Debug logging.,,,Debug

@@ -1,0 +1,11 @@
+{
+    "id":"ShoeyAutosave",
+	"name":"Custom Autosave",
+	"author":"Shoey",
+    "utility":"true",
+    "version": { "major":"1", "minor": "0", "patch": "0" },
+	"description":"",
+    "gameVersion": "0.97a-RC11",
+  	"jars":["jars/Custom Autosave.jar"],
+  	"modPlugin":"Shoey.Autosave.MainPlugin"
+}
