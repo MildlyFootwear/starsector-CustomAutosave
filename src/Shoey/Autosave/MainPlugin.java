@@ -66,7 +66,7 @@ public class MainPlugin extends BaseModPlugin {
         {
             Global.getSector().getCampaignUI().cmdSaveCopy();
         } else {
-            Global.getSector().getCampaignUI().cmdSave();
+            Global.getSector().getCampaignUI().autosave();
         }
     }
 

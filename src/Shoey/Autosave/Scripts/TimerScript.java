@@ -1,7 +1,6 @@
 package Shoey.Autosave.Scripts;
 
 import Shoey.Autosave.MainPlugin;
-import com.fs.graphics.G;
 import com.fs.starfarer.api.EveryFrameScript;
 import com.fs.starfarer.api.Global;
 
